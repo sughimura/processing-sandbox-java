@@ -19,7 +19,7 @@ public class Main extends PApplet {
     public void setup() {
         blendMode(ADD);
         background(0);
-        stroke(124, 155, 255, 50);
+        stroke(255);
     }
 
     @Override
